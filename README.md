@@ -1,3 +1,4 @@
+![logo](https://github.com/jkothari37/jkothari37/blob/master/Logo.png)
 <h1 align="center">Hi 👋, I'm Jyoti Kothari</h1>
 <h3 align="center">An enthusiastic Automation Test Engineer</h3>
 
