@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkothari37&label=Profile%20views&color=0e75b6&style=flat" alt="jkothari37" /> </p>
 
-- 🔭 I’m currently learning **Java, JavaScript, DSA, Postman, Prompt Engineering, AWS**
+- 🔭 I’m currently learning **Python, JavaScript, DSA, Postman, Prompt Engineering, AWS**
 
 - 📫 How to reach me **jkothari37@gmail.com**
 
